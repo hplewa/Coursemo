@@ -1,0 +1,13 @@
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.exe.config
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.exe
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.pdb
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.csprojAssemblyReference.cache
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.Form1.resources
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.Properties.Resources.resources
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.csproj.GenerateResource.cache
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.exe
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\obj\Debug\Coursemo.pdb
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.designer.cs
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.dbml
+C:\Users\Hubert\Documents\school\su18\cs480\projects\proj4\Coursemo\Coursemo\bin\Debug\Coursemo.dbml.layout
